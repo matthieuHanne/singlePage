@@ -26,3 +26,7 @@ node_modules
 
 # Production
 dist/
+
+#Vendors
+app/scripts/vendor
+
